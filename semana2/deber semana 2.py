@@ -67,3 +67,4 @@ print("\n---- Polimorfismo ----")
 animales = [perro, gato]
 for animal in animales:
     interactuar_con_animal(animal)
+
